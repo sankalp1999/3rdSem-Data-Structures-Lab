@@ -8,6 +8,11 @@ import os, sys
    
    # b = [2,4,6] here, (3,2), (5,2) contribute to inversions.
    # 
+   
+   
+   
+# Inversion happens when a larger number comes before a smaller number in a pair
+
 def mergeSortInversions(arr):
     if len(arr) == 1:
         return arr, 0
