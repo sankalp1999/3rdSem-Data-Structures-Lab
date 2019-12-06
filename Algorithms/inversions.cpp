@@ -1,63 +1,68 @@
-#include<iostream>
-#include<cstdio>
-
+#include <iostream>
 using namespace std;
 
-long long ans=0;
-void mergei(int a[],int i,int j)
+int temp[100000];
+
+long int join(int s[], int left, int mid, int right)
 {
-    int mid=((i+j)/2)+1,high=j+1;
-    int s=i;
-    int * arr = new int [j-i+1];
-    j=mid;
-    int k=0;
-    while(i<mid && j<high)
+    long int shift=0;
+    int i=left, j=mid, k=left;
+    while(i<mid && j<=right)
     {
-        if(a[i]<=a[j])
-        {
-            arr[k]=a[i];
-            i++;
+        if(s[i] <= s[j]){
+            temp[k]=s[i];
+            k++, i++;
         }
-        else
-        {
-            arr[k]=a[j];
-            ans+=(mid-i);
-            j++;
+        else{
+            temp[k]=s[j];
+            k++, j++;
+            shift += mid-i;
         }
-        k++;
     }
-    for(;i<mid;i++,k++)
-        arr[k]=a[i];
-    for(;j<high;j++,k++)
-        arr[k]=a[j];
-    for(k=0;s<high;s++,k++)
-        a[s]=arr[k];
-    delete [] arr;
+    while(i<mid){
+        temp[k] = s[i];
+        k++, i++;
+    }
+    
+    while(j<=right){
+        temp[k] = s[j];
+        k++, j++;
+    }
+    
+    while(left<=right){
+        s[left] = temp[left];
+        left++;
+    }
+    return shift;
 }
 
-void m_sort(int a[],int i,int j)
+long int mergeSort(int s[], int left, int right)
 {
-    if(i<j)
+    long int shift = 0;
+    if(left < right)
     {
-        m_sort(a,i,(i+j)/2);
-        m_sort(a,((i+j)/2)+1,j);
-        mergei(a,i,j);
+        int mid = left + (right-left)/2;
+        shift += mergeSort(s, left, mid);
+        shift += mergeSort(s, mid+1, right);
+        shift += join(s, left, mid+1, right);
     }
+    return shift;
 }
+
 int main()
 {
-    int t;
-    scanf("%d",&t);
+    int n, t;
+    cin >> t;
     while(t--)
     {
-        int n;
-        ans=0;
-        scanf("%d",&n);
-        int * a = new int[n];
-        for(int i=0;i<n;i++)
-            scanf("%d",&a[i]);
-        m_sort(a,0,n-1);
-        cout<<ans<<endl;
+        cin >> n;
+        int s[n];
+        for(int i=0; i<n; i++)
+            cin >> s[i];
+         
+        long int shift = mergeSort(s, 0, n-1);
+        
+        cout << shift << endl;
     }
     return 0;
 }
