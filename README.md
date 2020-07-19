@@ -18,7 +18,7 @@ Keep following points in mind
   - There are a lot of resources about guidance on Quora and Codeforces. You can check out them. Competitive programming is different from 
     normal data structures and algorithms that you implement in lab. You need to know that but you get good at CP by doing CP. You need to be 
     consistent and know the fact that it is going to be ridiculously hard. At the time of writing this, I am myself not good at CP. 
-    But it's fun and one of the best ways to build problem solving, thinking, programming and debugging skills.
+    But it's fun and one of the best ways to build problem solving, thinking, programming and debugging skills. (There are many other benefits)
        - [What CP is all about](https://qr.ae/TjA0uu)
        - [How to get start with CP - by Sameer Gulati](https://www.youtube.com/watch?v=qG3tT_CaA68)  Check his other videos as well.
        - Check out Errichto's video as well.
