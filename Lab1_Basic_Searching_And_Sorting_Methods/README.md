@@ -11,3 +11,6 @@
 # Insertion sort
 - This algorithm has the special property that if your [array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/) is almost sorted, then it performs good.
 - You should be able to write this without reference.
+- It can be used to count inversions in O(n ^ 2) time complexity. 
+
+
