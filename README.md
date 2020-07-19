@@ -20,11 +20,11 @@ Keep following points in mind
     consistent and know the fact that it is going to be ridiculously hard. At the time of writing this, I am myself not good at CP. 
     But it's fun and one of the best ways to build problem solving, thinking, programming and debugging skills.
        - [What CP is all about](https://qr.ae/TjA0uu)
-       - [https://www.youtube.com/watch?v=qG3tT_CaA68](How to get start with CP - by Sameer Gulati) Check his other videos as well.
+       - [How to get start with CP - by Sameer Gulati](https://www.youtube.com/watch?v=qG3tT_CaA68)  Check his other videos as well.
        - Check out Errichto's video as well.
        - [Ashish Gupta's great answer](https://qr.ae/pNydnl) Check his other answers as well.
-       - [Rough Roadmap to get idea](https://www.youtube.com/watch?v=zZOQVLll9u4&t=0s)
-
+       - [Rough Roadmap to get idea about CP](https://www.youtube.com/watch?v=zZOQVLll9u4&t=0s)
+  - I would like to write a blog on CP (to save time for others) when I get good obviously xD.
 You can find the following codes here
 
 - Basic Searching and Sorting Methods 
