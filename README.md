@@ -16,13 +16,13 @@ Keep following points in mind
 - Try not to copy. **You can see somebody else's implementation for reference though, then try to write on your own.** You will find yourself going back and forth 
   but that is okay. 
   
-- These concepts will help a lot in Interview prep/machine coding rounds and in general also, you will become a better programmer.
+- These concepts will help a lot in Interview prep/machine coding rounds and in general also, **they will make you a better programmer. **
 
 - Data structures and Algorithms(Not in this course still) are very important. **You can get only get better by implementing and practicing stuff.**
   Further, this is mostly the implementation part. There are tonnes of DS related and algorithmic problems which you may come across later depending
   on whether you do interview/coding prep or you go one level beyond and do CP(do like seriously, CP is much more vast and logical)
 
-- Try doing some related problems on GFG practice, LeetCode or InterviewBit (if time available). It's not necessary but I feel I could have practiced some problems. Also, for understanding concepts in these sites or YouTube is there. Channels like mycodeschool, Algorithms with Attitude, Back to Back SWE, Abdul Bari etc.
+- **Try doing some related problems on GFG practice, LeetCode or InterviewBit (if time available)**. It's not necessary but I feel I could have practiced some problems. Also, for understanding concepts in these sites or YouTube is there. Channels like mycodeschool, Algorithms with Attitude, Back to Back SWE, Abdul Bari etc. **Check out MOOCs on Coursera also if interested.**
 
 ## What you can find here
 You can find the following codes here
