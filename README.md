@@ -16,7 +16,7 @@ Keep following points in mind
 - Try not to copy. **You can see somebody else's implementation for reference though, then try to write on your own.** You will find yourself going back and forth 
   but that is okay. 
   
-- These concepts will help a lot in Interview prep/machine coding rounds and in general also, **they will make you a better programmer. **
+- These concepts will help a lot in Interview prep/machine coding rounds and in general also, ** they will make you a better programmer. **
 
 - Data structures and Algorithms(Not in this course still) are very important. **You can get only get better by implementing and practicing stuff.**
   Further, this is mostly the implementation part. There are tonnes of DS related and algorithmic problems which you may come across later depending
