@@ -1,7 +1,7 @@
 # Implementation of standard data structures
 This repository contains all of the lab work done in CCE 3rd Sem Data Structure Lab. The DS lab was a pretty intense lab but it was worth it.
 We had alternative week evaluations. I learnt to implement the standard data structures without using any sort of libraries. It helped to internalise 
-the concepts.
+the concepts. (You are allowed to use libraries outside the lab so don't worry)
 
 If you are a junior reading this, 
 Keep following points in mind
