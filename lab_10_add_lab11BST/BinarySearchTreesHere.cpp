@@ -6,6 +6,7 @@ class bst
 	bst *lchild;
 	int data;
 	bst *rchild;
+	
 public:
 	bst(int ele=0)
 	{
@@ -102,7 +103,6 @@ bst* bst::deleteNode(bst* root, int key)
     return root;
 }
 
-
 int main()
 {
     bst b;
@@ -121,6 +121,7 @@ int main()
     cout<<"\nenter key to search:";
     cin>>p;
     temp=b.search(root,p);
+	
     if (temp==NULL) cout<<"\nkey not found";
     else cout<<"\nkey found";
 
@@ -128,5 +129,6 @@ int main()
     cin>>p;
     root=b.deleteNode(root,p);
     b.display(root);
+	
     return 0;
 }
