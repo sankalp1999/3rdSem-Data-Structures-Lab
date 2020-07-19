@@ -22,6 +22,8 @@ Keep following points in mind
   Further, this is mostly the implementation part. There are tonnes of DS related and algorithmic problems which you may come across later depending
   on whether you do interview/coding prep or you go one level beyond and do CP(do like seriously, CP is much more vast and logical)
 
+- Learn about the time complexities involved. 
+
 - **Try doing some related problems on GFG practice, LeetCode or InterviewBit (if time available)**. It's not necessary but I feel I could have practiced some problems. Also, for understanding concepts in these sites or YouTube is there. Channels like mycodeschool, Algorithms with Attitude, Back to Back SWE, Abdul Bari etc. **Check out MOOCs on Coursera also if interested.**
 
 ## What you can find here
