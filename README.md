@@ -9,13 +9,17 @@ Feel free to make changes and maybe suggest better codes.
 If you are a junior reading this, 
 Keep following points in mind
 - Try implementing all the programs and additional exercises yourself. Try to play around a bit
-   and learn to deal with segmentation faults.
+   and learn to deal with segmentation faults. Use cin and input some variable in between to debug(Thanks to Veena Ma'am xD)
+   
 - This repository is for your (and my reference). **So, use it when really required. But, do try your best and follow your teacher.**
-- Try not to copy. You can see somebody else's implementation for reference though, then try to write on your own. You will find yourself going back and forth 
+
+- Try not to copy. **You can see somebody else's implementation for reference though, then try to write on your own.** You will find yourself going back and forth 
   but that is okay. 
-- These concepts will help a lot in Interview prep
+  
+- These concepts will help a lot in Interview prep/machine coding rounds and in general also, you will become a better programmer.
+
 - Data structures and Algorithms(Not in this course still) are very important. **You can get only get better by implementing and practicing stuff.**
-  Further, this the implementation part. There are tonnes on ds related and algorithmic problems which you may come across later depending
+  Further, this is mostly the implementation part. There are tonnes of DS related and algorithmic problems which you may come across later depending
   on whether you do interview/coding prep or you go one level beyond and do CP(do like seriously, CP is much more vast and logical)
 
 ## What you can find here
