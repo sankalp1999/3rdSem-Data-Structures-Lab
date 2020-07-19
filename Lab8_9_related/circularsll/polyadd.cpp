@@ -1,5 +1,3 @@
-
-
 #include <iostream>
 using namespace std;
 // circular 
@@ -9,6 +7,7 @@ class poly
     poly *prev;
     poly *next;
     int exp, coe;
+
 public :
     void display(poly*);
     void create();
@@ -18,28 +17,25 @@ public :
     poly* mul(poly *p1, poly *p2);
     poly *simplify(poly *p1);
 
-
-
 };
-poly* f1 = NULL;
+
+poly* f1 = NULL; // Two solid lists are required.
 poly* f2 = NULL;
 
 poly* poly :: mul(poly *p1, poly *p2)
 {
-poly *res = NULL;
+    poly *res = NULL;
 
-for(poly *i = p1; i->next != p1; i = i->next)
-{
-    for(poly *j = p2; j->next != p2; j = j->next)
+    for(poly *i = p1; i->next != p1; i = i->next)
     {
-        res = create(res, i->coe*j->coe, i->exp + j->exp);
+        for(poly *j = p2; j->next != p2; j = j->next)
+        {
+            res = create(res, i->coe*j->coe, i->exp + j->exp);
+        }
     }
-
+    return res;
 }
 
-return res;
-
-}
 poly* poly :: simplify(poly* r)
 {     if(!r)     return(NULL);
       poly *c,*res2=NULL;
@@ -47,8 +43,6 @@ poly* poly :: simplify(poly* r)
     
     for (i = maxExp; i >= 0; i--)
     {
-        
-        
         for (c = r ; c != r->next; c = c->next)
         {
             if (c->exp == i)
@@ -64,10 +58,9 @@ poly* poly :: simplify(poly* r)
             res2 = create(res2, i, coeSum);
         coeSum = 0;
        }//for
+ 
 return(res2);
 }
-
-
 
 poly* poly ::create(poly *f, int c, int e)
 {
@@ -158,28 +151,28 @@ poly* poly :: add(poly* p1, poly* p2)
 }
 int main()
 {
-poly s;
-poly s2;
-poly s3;
-f1 = s.create(f1, 5, 3);
-f1 = s.create(f1,10, 2);
-f1 = s.create(f1, 100, 1);
-f1 = s.create(f1, 5,0);
-f2 = s2.create(f2, 25,4);
-f2 = s2.create(f2, 55,3);
-f2 = s2.create(f2, 115, 2);
-f2 = s2.create(f2, 205,1);
-f2 = s2.create(f2, 0,0);
+    poly s;
+    poly s2;
+    poly s3;
+    f1 = s.create(f1, 5, 3);
+    f1 = s.create(f1,10, 2);
+    f1 = s.create(f1, 100, 1);
+    f1 = s.create(f1, 5,0);
+    f2 = s2.create(f2, 25,4);
+    f2 = s2.create(f2, 55,3);
+    f2 = s2.create(f2, 115, 2);
+    f2 = s2.create(f2, 205,1);
+    f2 = s2.create(f2, 0,0);
 
-s.display(f1);
-cout << endl;
-s2.display(f2);
+    s.display(f1);
+    cout << endl;
+    s2.display(f2);
 
-f1 = s3.mul(f1, f2);
-s3.display(f1);
-f1 = s3.simplify(f1);
+    f1 = s3.mul(f1, f2);
+    s3.display(f1);
+    f1 = s3.simplify(f1);
 
-cout << endl;
-cout << "After adding " << endl;
-s3.display(f1);
+    cout << endl;
+    cout << "After adding " << endl;
+    s3.display(f1);
 }
