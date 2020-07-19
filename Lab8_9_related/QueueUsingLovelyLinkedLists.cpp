@@ -1,5 +1,14 @@
+/*
+It's me from future:
+This LL related code was taken from my friend God level friend Anutham.
+He saved a few times when I was facing segmentation faults one-two days before lab.
+I made the queue myself still.
+The teacher can really cut marks if you don't make menu based program
+*/
+
 #include<iostream>
 using namespace std;
+
 class node
 {
     int data;
@@ -12,8 +21,8 @@ public:
     void insert_after_element();
     void display();
     int delete_end();
-    void delete_repeated();//assumes that the list is sorted
-    void delete_alternate();//deletes alternates excluding the first node
+    void delete_repeated();  //assumes that the list is sorted
+    void delete_alternate(); //deletes alternates excluding the first node
     int delete_front();
     void delete_specific();
     void sort_list();
@@ -42,8 +51,11 @@ void node::insert_end(int d)
 {
 
     node* temp=new node;//default constructor
+    
     temp->next=NULL;
+    
     temp->data=d;
+    
     if(first==NULL)
         first=temp;
     else
@@ -93,10 +105,15 @@ int node::delete_front()
         return 0;
     }
     node* i=first;
+    
     first=(*i).next;
+    
     int c = i->data;
-    delete(i);
+    
+    delete(i); // Not necessary but do this to avoid dangling pointers.
+    
     i=NULL;
+    
     return c ;
 }
 
@@ -107,15 +124,22 @@ void node::delete_specific()
         cout<<"Empty list"<<endl;
         return;
     }
+    
     cout<<"Enter the data element to be deleted:";
+    
     int x,flag=0;//flag=0 => element not found
+    
     cin>>x;
     node* i=first,*prev;
+    
     if(i->data==x)
     {
         first=i->next;
+        
         delete(i);
+        
         i=NULL;
+        
         return;
     }
     for(;i;i=i->next)
@@ -142,6 +166,7 @@ void node::insert_front()
     cout<<"Enter the element to be inserted:";
     int x;
     cin>>x;
+    
     //node *i=first;
     node* temp=new node;
     temp->data=x;
@@ -188,7 +213,8 @@ void node::insert_specific()
         insert_specific();
     }
 }
-
+// This is only swapping values. 
+// In end semester exam, they had asked to sort by swapping nodes. Hawa nikal gayi thi uss samay.
 void node::sort_list()
 {
     for(node* i=first;i->next;i=i->next)
