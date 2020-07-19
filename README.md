@@ -9,6 +9,13 @@ Keep following points in mind
    and learn to deal with segmentation faults.
 - Try not to copy. You can see somebody else's implementation for reference though, then try to write on your own. You will find yourself going back and forth 
   but that is okay. 
+- These concepts will help a lot in Interview prep
+- They will also act as foundation if you want to do competitive programming. CP and interview prep are different so
+  please be aware of that difference. For CP, practice questions on Codeforces and Codechef
+  - Take Part in contests.
+  - Focus more on practicing problems on codeforces and upsolving. If your rating is x, then solve problems [ x, x+100 ] 
+  - Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage.
+  - There are a lot of resources about guidance on Quora and Codeforces.
 
 You can find the following codes here
 
