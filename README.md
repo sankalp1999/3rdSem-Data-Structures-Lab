@@ -15,9 +15,15 @@ Keep following points in mind
   - Take Part in contests.
   - Focus more on practicing problems on codeforces and upsolving. If your rating is x, then solve problems [ x, x+100 ] 
   - Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage.
-  - There are a lot of resources about guidance on Quora and Codeforces. You can check out 
-       - (What CP is all about)[https://qr.ae/TjA0uu]
-       - [https://www.youtube.com/watch?v=qG3tT_CaA68](How to get start with CP - by 
+  - There are a lot of resources about guidance on Quora and Codeforces. You can check out them. Competitive programming is different from 
+    normal data structures and algorithms that you implement in lab. You need to know that but you get good at CP by doing CP. You need to be 
+    consistent and know the fact that it is going to be ridiculously hard. At the time of writing this, I am myself not good at CP. 
+    But it's fun and one of the best ways to build problem solving, thinking, programming and debugging skills.
+       - [What CP is all about](https://qr.ae/TjA0uu)
+       - [https://www.youtube.com/watch?v=qG3tT_CaA68](How to get start with CP - by Sameer Gulati) Check his other videos as well.
+       - Check out Errichto's video as well.
+       - [Ashish Gupta's great answer](https://qr.ae/pNydnl) Check his other answers as well.
+       - [Rough Roadmap to get idea](https://www.youtube.com/watch?v=zZOQVLll9u4&t=0s)
 
 You can find the following codes here
 
