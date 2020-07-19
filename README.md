@@ -27,11 +27,12 @@ You can find the following codes here
 - Binary Trees
 - Binary Search Tree and expression tree implementation.
 
-## CP related 
+## Some thoughts - CP related 
 - They will also act as foundation if you want to do competitive programming. CP and interview prep are different so
-  please be aware of that difference. For CP, practice questions on Codeforces and Codechef
+  please be aware of that difference. For CP, practice questions on Codeforces and Codechef. HackerRank problem solving section is good for starting.
+  (I don't want to make this a CP blog so I won't write much here about resources. You will find on them on your own.)
   - Take Part in contests.
-  - Focus more on practicing problems on codeforces and upsolving. If your rating is x, then solve problems [ x, x+ 200 ] 
+  - Focus more on practicing problems on Codeforces and upsolving. If your rating is x, then solve problems [ x, x+ 200 ] 
   - Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage.
   - Do not learn all the algo and ds stuff first. Things don't work like that. You learn on the go by practicing and studying what is required.
   - There are a lot of resources about guidance on Quora and Codeforces. You can check them out. Competitive programming is different from 
@@ -44,7 +45,6 @@ You can find the following codes here
        - Check out Errichto's video as well.
        - [Ashish Gupta's great answer](https://qr.ae/pNydnl) Check his other answers as well.
        - [Rough Roadmap to get idea about CP](https://www.youtube.com/watch?v=zZOQVLll9u4&t=0s)
-  
   - I would like to write a blog on CP (to save time for others) when I get good obviously xD. Currently, I am busy with other programming related work.
 
 
