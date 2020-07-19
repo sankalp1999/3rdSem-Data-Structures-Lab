@@ -8,15 +8,17 @@ class cdll
     cdll *prev;
     cdll *next;
     int data;
+    
 public :
+    
     void display(cdll*);
     cdll* create(cdll*, int ele);
     void traverse(cdll* );
     cdll* delspec(cdll *f, int ele);
 
-
 };
-cdll* head = NULL;
+cdll* head = NULL; // This creates a solid list
+
 cdll* cdll :: delspec(cdll *f, int ele)
 {
     cdll* t ;
@@ -24,7 +26,9 @@ cdll* cdll :: delspec(cdll *f, int ele)
     if(t->next == t)
     {
     f = NULL;
+        
     delete(t);
+        
     cout << "the list is empty." << endl;
 
     }
@@ -38,11 +42,11 @@ cdll* cdll :: delspec(cdll *f, int ele)
     else{
 
     t = t->next;
+        
     while(t != f)
     {
         if(t->data == ele)
         {
-           // cout << "hi" ;
         t->prev->next = t->next;
         delete(t);
         break;
@@ -85,7 +89,6 @@ cdll* cdll ::create(cdll *f, int ele)
     return f;
 }
 
-
 void cdll:: display(cdll* t)
 {
     cdll *i;
@@ -97,6 +100,7 @@ void cdll:: display(cdll* t)
     }
     cout << i->data << endl;
 }
+
 int main()
 {
 cdll s;
