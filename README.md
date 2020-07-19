@@ -13,7 +13,7 @@ Keep following points in mind
 - They will also act as foundation if you want to do competitive programming. CP and interview prep are different so
   please be aware of that difference. For CP, practice questions on Codeforces and Codechef
   - Take Part in contests.
-  - Focus more on practicing problems on codeforces and upsolving. If your rating is x, then solve problems [ x, x+100 ] 
+  - Focus more on practicing problems on codeforces and upsolving. If your rating is x, then solve problems [ x, x+ 200 ] 
   - Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage.
   - There are a lot of resources about guidance on Quora and Codeforces. You can check out them. Competitive programming is different from 
     normal data structures and algorithms that you implement in lab. You need to know that but you get good at CP by doing CP. You need to be 
