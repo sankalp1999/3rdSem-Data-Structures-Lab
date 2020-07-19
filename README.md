@@ -22,6 +22,8 @@ Keep following points in mind
   Further, this is mostly the implementation part. There are tonnes of DS related and algorithmic problems which you may come across later depending
   on whether you do interview/coding prep or you go one level beyond and do CP(do like seriously, CP is much more vast and logical)
 
+- Try doing some related problems on GFG practice, LeetCode or InterviewBit (if time available). It's not necessary but I feel I could have practiced some problems. Also, for understanding concepts in these sites or YouTube is there. Channels like mycodeschool, Algorithms with Attitude, Back to Back SWE, Abdul Bari etc.
+
 ## What you can find here
 You can find the following codes here
 
@@ -50,7 +52,6 @@ You can find the following codes here
        - [Ashish Gupta's great answer](https://qr.ae/pNydnl) Check his other answers as well.
        - [Rough Roadmap to get idea about CP](https://www.youtube.com/watch?v=zZOQVLll9u4&t=0s)
   - I would like to write a blog on CP (to save time for others) when I get good obviously xD. Currently, I am busy with other programming related work.
-
 
 ## Note
 There is some non-DS lab material also but I have clearly marked it.
