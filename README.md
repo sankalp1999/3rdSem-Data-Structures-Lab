@@ -16,7 +16,7 @@ Keep following points in mind
   - Focus more on practicing problems on codeforces and upsolving. If your rating is x, then solve problems [ x, x+100 ] 
   - Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage.
   - There are a lot of resources about guidance on Quora and Codeforces. You can check out 
-       - [https://qr.ae/TjA0uu](What CP is all about)
+       - (What CP is all about)[https://qr.ae/TjA0uu]
        - [https://www.youtube.com/watch?v=qG3tT_CaA68](How to get start with CP - by 
 
 You can find the following codes here
