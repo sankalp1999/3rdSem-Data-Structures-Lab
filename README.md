@@ -19,24 +19,34 @@ You can find the following codes here
 
 ### If you are a junior reading this, keep following points in mind
 
+You people are going to enter/entered the world of Computer Science, Development and programming in general. It's really vast and there
+is a lot of cool and fun stuff to explore. Algorithms and Data structures is one such area. In general, you might be starting with this or some 
+other field/track. You will realise that you are a newbie in lots of areas (and that is fine) and you will have to work your way up by practice and 
+showing up daily (even if you are really passionate about it or not). There is no other shortcut and that is also good. The journey is the important thing.
+
 - Try implementing all the programs and additional exercises yourself. Try to play around a bit
-   and learn to deal with segmentation faults. Use cin and input some variable in between to debug(Thanks to Veena Ma'am xD)
+   and learn to deal with segmentation faults. **Use cin and input some variable in between to debug**(Thanks to Veena Ma'am xD)
    
 - This repository is for your (and my reference). **So, use it when really required. But, do try your best and follow your teacher.**
 
 - Try not to copy. **You can see somebody else's implementation for reference though, then try to write on your own.** You will find yourself going back and forth 
-  but that is okay. 
-  
-- These concepts will help a lot in Interview prep/machine coding rounds and in general also, **they will make you a better programmer.**
+  but that is okay. (Active learning - study something new and then try to reproduce it - the key ideas, concepts)
+ 
+ 
+### Why even learn DS, huh?
+- These concepts will help a lot in Interview prep/machine coding rounds and in general also, **they will make you a better programmer.** You will
+  find DS and Algorithms everywhere in CS and in the world also.
 
-- Data structures and Algorithms(Not in this course still) are very important. **You can get only get better by implementing and practicing stuff.**
+- Data structures and Algorithms(not in this course still) are very important. **You can get better only by implementing, studying, understanding, practicing.**
   Don't expect that Moocs or college teachers will teach you to code.
+  
   Further, this is mostly the implementation part. There are tonnes of DS related and algorithmic problems which you may come across later depending
   on whether you do interview/coding prep or you go one level beyond and do CP(do like seriously, CP is much more vast and logical)
 
 - **Learn about the time complexities involved.** College people don't teach this I think until 4th sem. 
 
-- **Try doing some related problems on GFG practice, LeetCode or InterviewBit (if time available)**. It's not necessary but I feel I could have practiced some problems. Also, for understanding concepts in these sites or YouTube is there. Youtube Channels like mycodeschool, Algorithms with Attitude, Back to Back SWE, Abdul Bari etc. **Check out MOOCs on Coursera also if interested.**
+- **Try doing some related problems on GFG practice, LeetCode or InterviewBit (if time available)**. (These are the most used websites for coding round/interview prep.) It's not necessary but I feel I could have practiced some problems. Also, for understanding concepts in these sites or YouTube is there. Youtube Channels like mycodeschool, Algorithms with Attitude, Back to Back SWE, Abdul Bari etc. **Check out MOOCs on Coursera also if interested.**
+     
      - MOOCs are good but take them when really needed or you have a lot of interest or time.
      
      - [Data structures University of Illinois](https://www.coursera.org/specializations/cs-fundamentals) - I have not tried this but heard from topper kind of your batch guy that these courses are good. Although, you can just follow college Data structures course. That is enough.
@@ -46,12 +56,19 @@ You can find the following codes here
 
 
 ## Some thoughts - CP related 
-- They will also act as foundation if you want to do competitive programming. CP and interview prep are different so
-  please be aware of that difference. For CP, practice questions on Codeforces and Codechef. HackerRank problem solving section is good for starting.
+- They will also act as foundation if you want to do competitive programming. CP and interview prep are different so please be aware of that difference. 
+  
+  **You don't need to do Competitive programming to clear in coding rounds/interviews** but those are good at CP or even have some experience find it easier
+  to prepare for coding interviews. 
+  
+  For CP, practice questions on Codeforces and Codechef. HackerRank problem solving section is good for starting.
   (I don't want to make this a CP blog so I won't write much here about resources. You will find on them on your own.)
   - Take Part in contests.
-  - Focus more on practicing problems on Codeforces and upsolving. If your rating is x, then solve problems [ x, x+ 200 ] 
+  
+  - Focus more on practicing problems on Codeforces and upsolving. If your rating is x, then solve problems [ x, x + 200 ] 
+  
   - Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage.
+  
   - Do not learn all the algo and ds stuff first. Things don't work like that. You learn on the go by practicing and studying what is required.
     This is called the project based learning approach sometimes in Dev world or Minimum viable knowledge. 
     Learning in Breadth first search way more and dfs sometimes is helpful in programming and CS.
@@ -71,5 +88,5 @@ You can find the following codes here
   - I would like to write a blog on CP (to save time for others) when I get good obviously xD. Currently, I am busy with other programming related work.
 
 ## Note
-There is some non-DS lab material also but I have clearly marked it.
+There is some non-DS lab material in the repository. 
 
