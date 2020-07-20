@@ -6,8 +6,19 @@ the concepts. (You are allowed to use libraries outside the lab so don't worry)
 
 Feel free to make changes and maybe suggest better codes.
 
-If you are a junior reading this, 
-Keep following points in mind
+
+## What you can find here
+You can find the following codes here
+
+- Basic Searching and Sorting Methods 
+- Stack implementation using array, linkedlists and applications of stack like prefix,infix,postfix evaluation
+- Single, Double, and circular LinkedLists programs
+- Binary Trees
+- Binary Search Tree and expression tree implementation.
+- And some thoughts I would like to share.(It's not advice.)
+
+### If you are a junior reading this, keep following points in mind
+
 - Try implementing all the programs and additional exercises yourself. Try to play around a bit
    and learn to deal with segmentation faults. Use cin and input some variable in between to debug(Thanks to Veena Ma'am xD)
    
@@ -33,14 +44,6 @@ Keep following points in mind
      - [UC San Diego Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - I have done first course. It was challenging. I am somewhere in between the second and third course. Currently, I don't need the content much so will complete later. But this specialization is tough and probably one of the best if you really wanna take things to next level. 
      
 
-## What you can find here
-You can find the following codes here
-
-- Basic Searching and Sorting Methods 
-- Stack implementation using array, linkedlists and applications of stack like prefix,infix,postfix evaluation
-- Single, Double, and circular LinkedLists programs
-- Binary Trees
-- Binary Search Tree and expression tree implementation.
 
 ## Some thoughts - CP related 
 - They will also act as foundation if you want to do competitive programming. CP and interview prep are different so
