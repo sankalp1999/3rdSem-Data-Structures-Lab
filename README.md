@@ -15,7 +15,7 @@ You can find the following codes here
 - Single, Double, and circular LinkedLists programs
 - Binary Trees
 - Binary Search Tree and expression tree implementation.
-- And **some thoughts** I would like to share to help you guys become better coders xD.
+- **Some thoughts and reflections** I would like to share to help you guys become better coders xD.
 
 ### If you are a junior reading this, keep following points in mind
 
@@ -47,10 +47,10 @@ showing up daily (even if you are really passionate about it or not). There is n
      
      - [Data structures University of Illinois](https://www.coursera.org/specializations/cs-fundamentals) - I have not tried this but heard from topper kind of your batch guy that these courses are good. This is more relevant to your DS course. Although, you can just follow college Data structures course. That is enough.
       
-     - [UC San Diego Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - (Not that much relevant to your DS course)I have done first course. It was challenging. I am somewhere in between in the second and third course. Currently, I don't need the content much so will complete later. But this specialization is tough and probably one of the best if you really wanna take things to next level. 
+     - [UC San Diego Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - (Not that much relevant to your DS course)I have done first course. It was challenging. I am somewhere in between in the second and third course. Currently, I don't need the content much so will complete later. But this specialization is tough and probably one of the best in terms of depth and breadth of topics. 
      
 ## Some thoughts - CP related 
-- They will also act as foundation if you want to do competitive programming. CP and interview prep are different. Try reading about that difference.
+- DS will also act as foundation if you want to do competitive programming. CP and interview prep are different. Try reading about that difference.
   The type of questions in coding rounds are similar to what you do in labs. They are going to be more fun and logical (and difficult). CP is more 
   mathematical and algorithm/implementation based. The topics also vary. You can get a better idea by ofcourse doing a bit both of them or by reading.
 
