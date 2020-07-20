@@ -52,7 +52,7 @@ showing up daily (even if you are really passionate about it or not). There is n
 ## Some thoughts - CP related 
 - They will also act as foundation if you want to do competitive programming. CP and interview prep are different. Try reading about that difference.
   The type of questions in coding rounds are similar to what you do in labs. They are going to be more fun and logical (and difficult). CP is more 
-  mathematical and algorithm/implementation based. The topics also vary.
+  mathematical and algorithm/implementation based. The topics also vary. You can get a better idea by ofcourse doing a bit both of them or by reading on this.
 
 ### Tackling some misconceptions
    
