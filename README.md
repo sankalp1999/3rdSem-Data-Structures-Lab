@@ -15,7 +15,7 @@ You can find the following codes here
 - Single, Double, and circular LinkedLists programs
 - Binary Trees
 - Binary Search Tree and expression tree implementation.
-- And some thoughts I would like to share.(It's not advice.)
+- And **some thoughts** I would like to share to help you guys become better coders xD.
 
 ### If you are a junior reading this, keep following points in mind
 
@@ -53,6 +53,9 @@ You can find the following codes here
   - Focus more on practicing problems on Codeforces and upsolving. If your rating is x, then solve problems [ x, x+ 200 ] 
   - Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage.
   - Do not learn all the algo and ds stuff first. Things don't work like that. You learn on the go by practicing and studying what is required.
+    This is called the project based learning approach sometimes in Dev world or Minimum viable knowledge. 
+    Learning in Breadth first search way more and dfs sometimes is helpful in programming and CS.
+    
   - There are a lot of resources about guidance on Quora and Codeforces. You can check them out. Competitive programming is different from 
     normal data structures and algorithms that you implement in lab. You need to know these concepts but you **get good at CP by doing CP**. 
     
