@@ -54,12 +54,12 @@ showing up daily (even if you are really passionate about it or not). There is n
   The type of questions in coding rounds are similar to what you do in labs. They are going to be more fun and logical (and difficult). CP is more 
   mathematical and algorithm/implementation based. The topics also vary.
 
-### Misconceptions
+### Tackling some misconceptions
    
   **You don't need to do Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier
   to prepare for coding interviews. Basically, for coding interviews, you practice those questions that are more relevant there....
   
-   - **Just start solving problems!!** Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage. You will find a lot of problems      where you don't need to know any algorithm or specific data structure.
+  **Just start solving problems!!** Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage. You will find a lot of problems      where you don't need to know any algorithm or specific data structure.
   
 ### Approach to CP in short   
    For CP, practice questions on Codeforces and Codechef. HackerRank problem solving section is good for starting.
