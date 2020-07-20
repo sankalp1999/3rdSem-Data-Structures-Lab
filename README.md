@@ -52,12 +52,12 @@ showing up daily (even if you are really passionate about it or not). There is n
 ## Some thoughts - CP related 
 - They will also act as foundation if you want to do competitive programming. CP and interview prep are different. Try reading about that difference.
   The type of questions in coding rounds are similar to what you do in labs. They are going to be more fun and logical (and difficult). CP is more 
-  mathematical and algorithm/implementation based. The topics also vary. You can get a better idea by ofcourse doing a bit both of them or by reading on this.
+  mathematical and algorithm/implementation based. The topics also vary. You can get a better idea by ofcourse doing a bit both of them or by reading.
 
 ### Tackling some misconceptions
    
   **You don't need to do Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier
-  to prepare for coding interviews. Basically, for coding interviews, you practice those questions that are more relevant there....
+  to prepare for coding interviews. Basically, for coding interviews, you practice those questions that are more relevant there.... Google, Microsoft only care     about you clearing their [interview](https://qr.ae/pNssEu). 
   
   **Just start solving problems!!** Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage. You will find a lot of problems      where you don't need to know any algorithm or specific data structure.
   
@@ -78,7 +78,8 @@ showing up daily (even if you are really passionate about it or not). There is n
     Check out the concept of deliberate practice. In [general](https://jamesclear.com/deliberate-practice-theory#:~:text=Deliberate%20practice%20refers%20to%20a,specific%20goal%20of%20improving%20performance.) and CP related [Here](https://www.redgreencode.com/deliberate-practice-for-software-developers/)
     
     You need to be consistent and know the fact that it is going to be ridiculously hard. At the time of writing this, I am myself not good at CP. 
-    But it's fun and one of the best ways to build problem solving, thinking, programming and debugging skills. (There are many other benefits).
+    But it's fun and one of the best ways to build problem solving, thinking, programming and debugging skills. (There are many other benefits). You
+    also become a fast learner in the process.
        - [What CP is all about](https://qr.ae/TjA0uu)
        - [How to get start with CP - by Sameer Gulati](https://www.youtube.com/watch?v=qG3tT_CaA68)  Check his other videos as well.
        - Check out Errichto's video as well.
