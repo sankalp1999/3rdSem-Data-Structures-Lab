@@ -30,6 +30,8 @@ showing up daily (even if you are really passionate about it or not). There is n
 
 - Try not to copy. **You can see somebody else's implementation for reference though, then try to write on your own.** You will find yourself going back and forth 
   but that is okay. (Active learning - study something new and then try to reproduce it - the key ideas, concepts)
+  
+- You can check out standard code implementations available across Github. The algorithms [repository](https://github.com/TheAlgorithms) maintained by the open     source community. 
  
 ### Why even learn DS, huh?
 - You will find DS and Algorithms everywhere in CS (and in the world). These concepts will help a lot in interview prep/machine coding rounds and in general also, **they will make you a better programmer.** 
@@ -61,7 +63,7 @@ showing up daily (even if you are really passionate about it or not). There is n
   
   **Just start solving problems!!** Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage. You will find a lot of problems      where you don't need to know any algorithm or specific data structure.
   
-### Approach to CP in short   
+### Approach to CP in a nutshell  
    For CP, practice questions on Codeforces and Codechef. HackerRank problem solving section is good for starting.
   (I don't want to make this a CP blog so I won't write much here about resources. You will find on them on your own.)
   - Take Part in contests.
