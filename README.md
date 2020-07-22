@@ -85,7 +85,7 @@ showing up daily (even if you are really passionate about it or not). There is n
     But it's fun and one of the best ways to build problem solving, thinking, programming and debugging skills. (There are many other benefits). You
     also become a fast learner in the process.
        - [Errichto's Guide](https://github.com/Errichto/youtube/wiki/How-to-practice%3F?fbclid=IwAR3i4-RUmoN3VM2oY-tP3WC60maN3V7hd2R5vTeS7Xs7I1LXNdb5_VjTnUA) Errichto is a red coder on Codeforces and he has a youtube channel with quality content.
-       - [What CP is all about](https://qr.ae/TjA0uu)
+       - [What CP is all about](https://qr.ae/TjA0uu) An answer which beautifully describes what CP is all about.
        - [How to get start with CP - by Sameer Gulati](https://www.youtube.com/watch?v=qG3tT_CaA68)  Check his other videos as well.
        - Check out Errichto's video as well.
        - [Ashish Gupta's great answer](https://qr.ae/pNydnl) Check his other answers as well.
