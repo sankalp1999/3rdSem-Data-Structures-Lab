@@ -24,7 +24,8 @@ is a lot of cool and fun stuff to explore. Algorithms and Data structures is one
 other field/track. You will realise that you are a newbie in lots of areas (and that is fine) and you will have to work your way up by practice and 
 showing up daily (even if you are really passionate about it or not). There is no other shortcut and that is also good. The journey is the important thing.
 
-- This repository is for your (and my reference). **So, use it when really required. But, do try your best and follow your teacher.**
+- This repository is for your (and my reference). **So, use it when really required. But, do try your best and follow your teacher.** Ideally, you should 
+  try to think and try enough till you are getting ideas (or if you have time). That way, even if you are not able to get it right, when you see the solution, you   will understand it quicker and it will stick for longer.
 
 - Try implementing all the programs and additional exercises yourself. Try to play around a bit and learn to deal with segmentation faults. **Use cin and input   some variable in between to debug hint:infinite loop or segmentation fault** (Thanks to Veena Ma'am xD)
 
@@ -68,7 +69,8 @@ showing up daily (even if you are really passionate about it or not). There is n
   (I don't want to make this a CP blog so I won't write much here about resources. You will find on them on your own.)
   - Take Part in contests.
   
-  - Focus more on practicing problems on Codeforces and upsolving. If your rating is x, then solve problems [ x, x + 200 ] 
+  - Focus more on practicing problems on Codeforces and upsolving. If your rating is x, then solve problems [ x, x + 200 ]. Only deliberate practice
+    can make you better.
   
   - Do not learn all the algo and ds stuff first. Things don't work like that. You learn on the go by practicing and studying what is required.
     This is called the project based learning approach sometimes in Dev world or Minimum viable knowledge. 
@@ -82,6 +84,7 @@ showing up daily (even if you are really passionate about it or not). There is n
     You need to be consistent and know the fact that it is going to be ridiculously hard. At the time of writing this, I am myself not good at CP. 
     But it's fun and one of the best ways to build problem solving, thinking, programming and debugging skills. (There are many other benefits). You
     also become a fast learner in the process.
+       - [Errichto's Guide](https://github.com/Errichto/youtube/wiki/How-to-practice%3F?fbclid=IwAR3i4-RUmoN3VM2oY-tP3WC60maN3V7hd2R5vTeS7Xs7I1LXNdb5_VjTnUA) Errichto is a red coder on Codeforces and he has a youtube channel with quality content.
        - [What CP is all about](https://qr.ae/TjA0uu)
        - [How to get start with CP - by Sameer Gulati](https://www.youtube.com/watch?v=qG3tT_CaA68)  Check his other videos as well.
        - Check out Errichto's video as well.
