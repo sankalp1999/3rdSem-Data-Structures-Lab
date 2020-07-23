@@ -14,7 +14,6 @@ private:
 public:
     queue()
     {
-
         f = r = -1;
         int q[MAX];
         counter = 0 ;
@@ -27,7 +26,6 @@ public:
         }
         else
         {
-
             r = (r+1); // MAX is the max size
             q[r] = ele;
             counter++;
@@ -40,7 +38,6 @@ public:
             cout << "CQ is empty." << endl;
             return -999;
         }
-
         f = (f+1);
         counter -= 1 ;
         return q[f];// returns the deleted element
@@ -58,10 +55,8 @@ public:
             {
               //  cout << "i : " << i << " r : " << r << endl ;
                 cout << q[i] << " | " ;
-
             }
         }
-
     }
 };
 int main()
