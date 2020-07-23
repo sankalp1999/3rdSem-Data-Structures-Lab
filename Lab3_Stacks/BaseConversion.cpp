@@ -3,6 +3,7 @@
 using namespace std;
 
 #define max1 10
+
 class stack1{
 private :
     int a[max1]; // max size of the array
@@ -21,6 +22,7 @@ public :
     void push(int i);
     void display();
 };
+
 int stack1::topele()
 {
     if (top != -1)
@@ -32,6 +34,7 @@ int stack1::topele()
     }
 
 }
+
 int stack1::pop()
 {
     if (top == - 1)
@@ -47,6 +50,7 @@ int stack1::pop()
         return ele;
     }
 }
+
 void stack1::push(int i)
 {
     if (top == max1 - 1)
@@ -56,7 +60,8 @@ void stack1::push(int i)
     top = top + 1 ;
     a[top] = i;
 }
- void stack1 ::display()
+
+ void stack1::display()
 {
     int i ;
     if ( top == -1)
@@ -74,6 +79,7 @@ void stack1::push(int i)
         }
     }
 }
+
 int main()
 {
     stack1 s1 ;
@@ -86,12 +92,12 @@ int main()
     cin >> num ;
     cout << "Please enter the base." << endl;
     cin >> base;
-    while(num != 0 )
+    while( num != 0 )
     {
-        ele = num%base;
+        ele = num % base;
         if (ele > 9 )
         {
-            s1.push(ele-10 + 'A');
+            s1.push(ele - 10 + 'A');
         }
         else
         {
