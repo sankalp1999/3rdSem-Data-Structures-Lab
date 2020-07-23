@@ -1,31 +1,33 @@
 #include <cstdio>
 #include <iostream>
+
 using namespace std;
+
 const int ns = 3 ;
 #define MAX 9   // MAX is maxsize of the stack
+
 class mstack
 {
 private:
     int top[ns], bottom[ns];
     int s[MAX];
+    
 public :
     mstack()
-{   // initializing the top and bottom
+{   
+    // initializing the top and bottom
     for(int i = 0 ; i < ns ; i++)
     {
         top[i] = (MAX/ns)*i - 1; // maxsize/number of stacks - 1 gives us each top value.
         bottom[i] = (MAX/ns)*i - 1;// bottom will remain fixed.
-
-
     }
-
 }
+    
     void push(int ele, int i)
 {
     if(top[i] == bottom[i+1] || top[i] == MAX - 1 )
     {
         cout << i << " th stack is full" << endl ;
-
     }
     else
     {
@@ -56,19 +58,13 @@ public :
         }
         else
         {
-            cout << "   Stack :  " << i+1 << endl;
-
-
+//             cout << "   Stack :  " << i+1 << endl;
             for(int j=top[i]; j > bottom[i]; j--)
             {
-
                 cout << s[j] << endl; // display for the ith stack
             }
             cout << "------------" << endl;
         }
-
-
-
 }
     int topele(int i)
 {
@@ -84,7 +80,6 @@ public :
 }
 };
 
-
 int main()
 {
     mstack s;
@@ -99,11 +94,8 @@ int main()
     s.pop(1);
     cout << s.topele(2) << endl ;
 
-
     s.display(1);
     s.display(2);
 
-
     return 0 ;
-
 }
