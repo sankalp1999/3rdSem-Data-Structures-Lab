@@ -9,18 +9,16 @@ private :
     int top;
     int ele;
 public :
-
     stack1()
     {
         top = -1;
     }
-
-
     int pop();
     int topele();
     void push(char i);
     void display();
 };
+
 int stack1::topele()
 {
     if (top != -1)
@@ -56,6 +54,7 @@ void stack1::push(char i)
     top = top + 1 ;
     a[top] = i;
 }
+
  void stack1 ::display()
 {
     int i ;
@@ -69,6 +68,7 @@ void stack1::push(char i)
         cout << a[j] << "\n ---- \n";
     }
 }
+
 int main()
 {
     stack1 s1 ;
@@ -76,9 +76,10 @@ int main()
     char arr[100];
     char out[100];
     cout << "Please enter a string you want to invert." << endl;
-    fflush(stdin);
+    
+    fflush(stdin); // Lab compilers are weird.
     gets(arr);
-    //cout << arr << endl;
+    
     for(int i = 0 ; arr[i] != '\0'; i++)
     {
         s1.push(arr[i]);
@@ -88,7 +89,9 @@ int main()
         out[i] = s1.pop();
     }
     int len = 0 ;
-    for( len = 0 ; arr[len] != '\0'; len++)
+    
+//     for( len = 0 ; arr[len] != '\0'; len++)
+        
     for(int i = 0 ; i<  len/2 ; i++)
     {
         if(out[i] == arr[i])
@@ -101,6 +104,7 @@ int main()
             break;
         }
     }
+    
     if (flag == 1 )
     {
         cout << "The string is a palindrome.";
