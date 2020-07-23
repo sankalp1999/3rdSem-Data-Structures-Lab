@@ -4,18 +4,27 @@
 using namespace std;
 
 #define max1 10
+
+
+/* 
+Stack1 name has been used otherwise it collides with the 
+stack in STL. Read about namespaces.
+*/
+
+
 class stack1{
+    
 private :
     char a[max1]; // max size of the array
     int top;
     int ele; // top element
+    
 public :
     // constructor
     stack1()
     {
         top = -1; // initialization to -1
     }
-
     // all the operations
     int pop();
     int topele();
@@ -86,7 +95,7 @@ int main()
 {
     stack1 s1 ;
 
-    char arr[100];
+    char arr[100]; // Keep stack size large especially in infix,postfix,prefix
     char out[100];
     cout << "Please enter the sequence of brackets." << endl;
     int flag = 1;
