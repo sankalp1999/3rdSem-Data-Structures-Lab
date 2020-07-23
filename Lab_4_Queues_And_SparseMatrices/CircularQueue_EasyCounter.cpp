@@ -1,7 +1,10 @@
 #include <iostream>
 #include <cstdio>
+
 #define MAX 5
 using namespace std;
+
+// This the counter version.
 
 class circularq
 {
@@ -13,7 +16,6 @@ private:
 public:
     circularq()
     {
-
         f = r = -1;
         int q[MAX];
         counter = 0 ;
@@ -26,7 +28,6 @@ public:
         }
         else
         {
-
             r = (r+1)%MAX; // MAX is the max size
             q[r] = ele;
             counter++;
@@ -39,7 +40,6 @@ public:
             cout << "CQ is empty." << endl;
             return -999;
         }
-
         f = (f+1)%MAX;
         counter -= 1 ;
         return q[f];// returns the deleted element
@@ -57,7 +57,6 @@ public:
             {
                 cout << "i : " << i << " r : " << r << endl ;
                 //cout << q[i] << " | " ;
-
             }
         }
 
