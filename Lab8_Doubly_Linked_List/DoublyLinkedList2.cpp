@@ -7,6 +7,7 @@ class dll
     dll *prev;
     dll *next;
     int data;
+    
 public :
     void display(dll*);
     void create();
