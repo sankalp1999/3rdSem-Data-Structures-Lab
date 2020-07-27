@@ -62,7 +62,7 @@ showing up daily (even if you are really passionate about it or not). There is n
   **You don't need to do Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier
   to prepare for coding interviews. Basically, for coding interviews, you practice those questions that are more relevant there.... Google, Microsoft only care     about you clearing their [interview](https://qr.ae/pNssEu). 
   
-  **Just start solving problems!!** Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage. You will find a lot of problems      where you don't need to know any algorithm or specific data structure. Occasionally exploring resources is fine but don't go in the search of 
+  **Just [start](https://youtu.be/y7169jEvb-Y?t=42) solving problems!!** Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage. You will find a lot of problems      where you don't need to know any algorithm or specific data structure. Occasionally exploring resources is fine but don't go in the search of 
    the perfect all in one resource. (I used to do this quite a few times). I believe it is a subtle form of procrastination.
   
 ### Approach to CP in a nutshell  
@@ -87,9 +87,9 @@ showing up daily (even if you are really passionate about it or not). There is n
     But it's fun and one of the best ways to build problem solving, thinking, programming and debugging skills. (There are many other benefits). You
     also become a fast learner in the process.
        - [Errichto's Guide](https://github.com/Errichto/youtube/wiki/How-to-practice%3F?fbclid=IwAR3i4-RUmoN3VM2oY-tP3WC60maN3V7hd2R5vTeS7Xs7I1LXNdb5_VjTnUA) Errichto is a red coder on Codeforces and he has a youtube channel with quality content.
+       - [Errichto's How to Become Red Coder](https://www.youtube.com/watch?v=y7169jEvb-Y)
        - [What CP is all about](https://qr.ae/TjA0uu) An answer which beautifully describes what CP is all about.
        - [How to get start with CP - by Sameer Gulati](https://www.youtube.com/watch?v=qG3tT_CaA68)  Check his other videos as well.
-       - Check out Errichto's video as well.
        - [Ashish Gupta's great answer](https://qr.ae/pNydnl) Check his other answers as well.
        - [Rough Roadmap to get idea about CP](https://www.youtube.com/watch?v=zZOQVLll9u4&t=0s)
   - I would like to write a blog on CP (to save time for others) when I get good obviously xD. Currently, I am busy with other programming related work.
