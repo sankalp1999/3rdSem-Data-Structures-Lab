@@ -44,7 +44,7 @@ showing up daily (even if you are really passionate about it or not). There is n
 
 - **Learn about the time complexities involved.** 
 
-- **Try doing some related problems on GFG practice, LeetCode or InterviewBit (if time available)**. (These are the most used websites for coding round/interview prep.) It's not necessary but I feel I could have practiced some problems. Also, for understanding concepts in these sites or YouTube is there. Youtube Channels like mycodeschool, Algorithms with Attitude, Back to Back SWE, Abdul Bari etc. **Check out MOOCs on Coursera also if interested.**
+- **Try doing some related problems on GFG practice, LeetCode or InterviewBit (if time available)**. **(These are the most used websites for coding round/interview prep.)** It's not necessary but I feel I could have practiced some problems. Also, for understanding concepts in these sites or YouTube is there. Youtube Channels like mycodeschool, Algorithms with Attitude, Back to Back SWE, Abdul Bari etc. **Check out MOOCs on Coursera also if interested.**
      
      - MOOCs are good but take them when really needed or you have a lot of interest or time.
      
