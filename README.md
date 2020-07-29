@@ -80,8 +80,7 @@ showing up daily (even if you are really passionate about it or not). There is n
   - There are a lot of resources about guidance on Quora and Codeforces (Google baba is there).You can check them out. Competitive programming is different from 
     normal data structures and algorithms that you implement in lab. You need to know these concepts but you **get good at CP by doing CP**. 
     
-    Check out the concept of deliberate practice. In [general](https://jamesclear.com/deliberate-practice-theory#:~:text=Deliberate%20practice%20refers%20to%20a,specific%20goal%20of%20improving%20performance.) and CP related [Here](https://www.redgreencode.com/deliberate-practice-for-software-developers/) You can get **good at CP only by deliberate practice**.
-
+    Check out the concept of deliberate practice. In [general](https://jamesclear.com/deliberate-practice-theory#:~:text=Deliberate%20practice%20refers%20to%20a,specific%20goal%20of%20improving%20performance.) and CP related [Here](https://www.redgreencode.com/deliberate-practice-for-software-developers/) You can get **good at CP only by deliberate practice**. Peter Norvig's (Google AI head) [Teach yourself programming in 10 years](http://norvig.com/21-days.html) 
     
     You need to be consistent and know the fact that it is going to be ridiculously hard (if you want to be good like Expert, Master on CF, 5 star on Codechef etc.). At the time of writing this, I am myself not good at CP. 
     But it's fun and one of the best ways to build problem solving, thinking, programming and debugging skills. (There are many other benefits). You
