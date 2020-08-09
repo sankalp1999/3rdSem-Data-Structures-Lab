@@ -59,8 +59,8 @@ showing up daily (even if you are really passionate about it or not). There is n
 
 ### Tackling some misconceptions
    
-  **You don't need to do Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier
-  to prepare for coding interviews. Basically, for coding interviews, you practice those questions that are more relevant there.... Google, Microsoft only care     about you clearing their [interview](https://qr.ae/pNssEu). 
+ {EDIT:Will add more on this] **You don't need to do Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier
+  to prepare for coding interviews. Basically, for coding interviews, you practice those questions that are more relevant there.... Google, Microsoft only care     about you clearing their [interview](https://qr.ae/pNssEu). **It will also help in the online coding rounds/ test rounds. Being familiar with what is asked via(GFG archives, LC/IB) is important but thinking from scratch/thinking for new problems is also important. CP helps much more in that.** So, I would recommend practicing and developing the thinking process from early on.(I will add more on this as I am currently going through the process and have not performed well due to messups/not being able to think under time pressure).
   
   **Just [start](https://youtu.be/y7169jEvb-Y?t=42) solving problems!!** Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage. You will find a lot of problems      where you don't need to know any algorithm or specific data structure. Occasionally exploring resources is fine but don't go in the search of 
    the perfect all in one resource. (I used to do this quite a few times). I believe it is a subtle form of procrastination.
