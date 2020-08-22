@@ -95,7 +95,7 @@ showing up daily (even if you are really passionate about it or not). There is n
        - [Ashish Gupta's great answer](https://qr.ae/pNydnl) Check his other answers as well.
        - [Rough Roadmap to get idea about CP](https://www.youtube.com/watch?v=zZOQVLll9u4&t=0s)
        - [How do I strengthen my problem solving skills?](https://www.quora.com/What-should-I-do-to-strengthen-my-problem-solving-skills-in-programming)
-    For more articles, refer [My Competitive Programming Repo's resources section](https://github.com/sankalp1999/Competitive-Programming/blob/master/Resources/README.md) - I store some stuff here. It will be more active in future. Apart from that, refer [Awesome CP](https://github.com/lnishan/awesome-competitive-programming)
+    For more articles, refer bottom most section of [My Competitive Programming Repo's resources section](https://github.com/sankalp1999/Competitive-Programming/blob/master/Resources/README.md) - I store some stuff here. It will be more active in future. Apart from that, refer [Awesome CP](https://github.com/lnishan/awesome-competitive-programming)
   - I would like to write a blog on CP (to save time for others) when I get good obviously xD. Currently, I am busy with other programming related work.
 
 ## Note
