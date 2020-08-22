@@ -1,7 +1,7 @@
 /*
 It's me from future:
-This LL related code was taken from my friend God level friend Anutham.
-He saved a few times when I was facing segmentation faults one-two days before lab.
+This LL related code was taken from my God level friend Anutham.
+He saved me a few times when I was facing segmentation faults one-two days before lab.
 I made the queue myself still.
 The teacher can really cut marks if you don't make menu based program
 */
