@@ -59,7 +59,7 @@ showing up daily (even if you are really passionate about it or not). There is n
 
 ### Tackling some misconceptions
    
- {EDIT:Will add more on this] **You don't need to do Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier
+ **You don't need to do (or be really good at) Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier
   to prepare for coding interviews. Basically, for coding interviews, you practice those questions that are more relevant there.... Google, Microsoft only care     about you clearing their [interview](https://qr.ae/pNssEu). Before coding interviews, if you are from a good college like MIT(comparing something good with the best does not make good bad - Sankalp xD), you will have to give some kind of online assessment/coding round. 
   
   **Side Note:** CP helps(because it helps to build problem solving/thinking skills and **pressure handling**) in clearing the online coding rounds/ test rounds for some companies(very uncertain process and companies tend to ask CP related or Leetcode style questions. It can be random. Luck also plays a certain role) Being familiar with what is asked via(GFG archives, LC/IB) is important but thinking from scratch/thinking for new problems is also important. CP helps much more in that.** So, I would recommend practicing and developing the thinking process from early on.
