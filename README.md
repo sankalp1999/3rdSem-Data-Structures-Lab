@@ -54,22 +54,22 @@ showing up daily (even if you are really passionate about it or not). There is n
      - [UC San Diego Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - (Not that much relevant to your DS course)I have done first course. It was challenging. I am somewhere in between in the second and third course. Currently, I don't need the content much so will complete later. But this specialization is tough and probably one of the best in terms of depth and breadth of topics. 
      
 ## Some thoughts - CP related 
-- DS will also act as foundation if you want to do competitive programming. CP and interview prep are different. Try reading about that difference.
+- DS will also act as foundation if you want to do competitive programming. CP and interview prep are different. Try reading about that difference or rather experiencing that. Participate in a couple of Codeforces contests and LeetCode contest (or just solve some LeetCode/GFG problems) and you will get to know the difference. 
+
   The type of questions in coding rounds are similar to what you do in labs. They are going to be more fun and logical (and difficult). CP is more 
   mathematical and algorithm/implementation based. The topics also vary. You can get a better idea by ofcourse doing a bit both of them or by reading.
 
 ### Tackling some misconceptions
    
- **You don't need to do (or be really good at) Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier
-  to prepare for coding interviews. Basically, for coding interviews, you practice those questions that are more relevant there.... Google, Microsoft only care     about you clearing their [interview](https://qr.ae/pNssEu). Before coding interviews, if you are from a good college like MIT(comparing something good with the best does not make good bad - Sankalp xD), you will have to give some kind of online assessment/coding round. 
-  
-  **Side Note:** CP helps(because it helps to build problem solving/thinking skills and **pressure handling**) in clearing the online coding rounds/ test rounds for some companies(very uncertain process and companies tend to ask CP related or Leetcode style questions. It can be random. Luck also plays a certain role) Being familiar with what is asked via(GFG archives, LC/IB) is important but thinking from scratch/thinking for new problems is also important. CP helps much more in that.** So, I would recommend practicing and developing the thinking process from early on.
+ **You don't need to do (or be really good at) Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier to prepare for coding interviews and before getting a coding interview, one has to clear *Online Test Round or Coding Rounds(These rounds have less standard and more like easy CP problems. They can be standard problems also. Depends on the company* . 
+ 
+ But for coding interviews, you practice those questions that are more relevant there.... Google, Microsoft only care     about you clearing their [interview](https://qr.ae/pNssEu). Before coding interviews, if you are from a good college like MIT(comparing something good with the best does not make good bad - Sankalp xD), you will have to give some kind of online assessment/coding round. 
   
   **Just [start](https://youtu.be/y7169jEvb-Y?t=42) solving problems!!** Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage. You will find a lot of problems      where you don't need to know any algorithm or specific data structure. Occasionally exploring resources is fine but don't go in the search of 
    the perfect all in one resource. (I used to do this quite a few times). I believe it is a subtle form of procrastination.
   
-Update OCT 2020:
-Even if you don't have serious goals in Competitive programming, I would still suggest practicing DSA problems(yeah, finally on Youtube, some people 
+**SideNote Updated Oct 2020**:
+Even if you don't have serious goals in Competitive programming, I would still suggest practicing DSA* problems(yeah, finally on Youtube, some people 
 like Pepcoding channel, takeUForward have given really good instructions) and **giving short contests** and then upsolving if you are interested in 
 placements or getting a PPO(You will need to do this stuff in 1st and 2nd year and be ready before 5th sem). I had messed up this part in 
 the last one month before the Internship rounds (and I don't have any offers till(I gave for the 4-5 high paying companies only) ).
@@ -81,6 +81,9 @@ While solving problems, make sure that you spend enough time and try to think ge
 
 Some short contests platforms : LeetCode, BinarySearch.com
 More CP oriented: Codeforces, AtCoder(Atcoder beginner contest), Codechef(Lunchtime, Cookoff). Even if you are not that much interested in CP, for practice sake try to solve like 3 probs(Hell, I can't still solve 3 questions in codeforces contest consistently)
+
+*DSA problems - the standard problems based on data structures and algorithms. The ones which are asked in coding rounds(some companies)
+and mostly asked in coding interviews. E.g Find the median of the array. 
 
 ### Approach to CP in a nutshell 
 This is the collective wisdom and information that I have understood by reading on platforms and the internet in my journey till now. (I am sort of advanced beginner in CP and certainly not good at it currently). But, you can trust the information given because i am just trying to articulate the ideas that the better programmers have conveyed (and I myself have experienced in whatever amount I have practiced. ) As you begin solving problems, these things keep getting clearer and you can [adjust](https://www.youtube.com/watch?v=82Fm1ZJ1CGQ). That's the case with almost every field probably. (skills in one field do help in others though) 
