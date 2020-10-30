@@ -45,6 +45,7 @@ showing up daily (even if you are really passionate about it or not). There is n
 - **Learn about the time complexities involved.** 
 
 - **Try doing some related problems on GFG practice, LeetCode or InterviewBit (if time available)**. **(These are the most used websites for coding round/interview prep. You will be using them when the time comes or when you decide)** It's not necessary but I feel I could have practiced some problems. Also, for understanding concepts in these sites or YouTube is there. Youtube Channels like mycodeschool, Algorithms with Attitude, Back to Back SWE, Abdul Bari etc. **Check out MOOCs on Coursera also if interested.**
+     - Learn to google the crap out of internet for learning. Youtube and Google have almost everything as of 2020 October.
      
      - MOOCs are good but take them when really needed or you have a lot of interest or time.
      
@@ -67,19 +68,35 @@ showing up daily (even if you are really passionate about it or not). There is n
   **Just [start](https://youtu.be/y7169jEvb-Y?t=42) solving problems!!** Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage. You will find a lot of problems      where you don't need to know any algorithm or specific data structure. Occasionally exploring resources is fine but don't go in the search of 
    the perfect all in one resource. (I used to do this quite a few times). I believe it is a subtle form of procrastination.
   
+Update OCT 2020:
+Even if you don't have serious goals in Competitive programming, I would still suggest practicing DSA problems(yeah, finally on Youtube, some people 
+like Pepcoding channel, takeUForward have given really good instructions) and **giving short contests** and then upsolving if you are interested in 
+placements or getting a PPO(You will need to do this stuff in 1st and 2nd year and be ready before 5th sem). I had messed up this part in 
+the last one month before the Internship rounds (and I don't have any offers till(I gave for the 4-5 high paying companies only) ).
+
+This is for the reason that even if you solve all those DSA problems(like you have built the foundation), still most of us need practice under 
+pressure. Contests help in pressure handling, improving speed and accuracy(getting AC in minimum possible attempts). 
+
+While solving problems, make sure that you spend enough time and try to think genuinely. Work with pen and paper. Try to get AC in 1 go.(It's hard)
+
+Some short contests platforms : LeetCode, BinarySearch.com
+More CP oriented: Codeforces, AtCoder(Atcoder beginner contest), Codechef(Lunchtime, Cookoff). Even if you are not that much interested in CP, for practice sake try to solve like 3 probs(Hell, I can't still solve 3 questions in codeforces contest consistently)
+
 ### Approach to CP in a nutshell 
 This is the collective wisdom and information that I have understood by reading on platforms and the internet in my journey till now. (I am sort of advanced beginner in CP and certainly not good at it currently). But, you can trust the information given because i am just trying to articulate the ideas that the better programmers have conveyed (and I myself have experienced in whatever amount I have practiced. ) As you begin solving problems, these things keep getting clearer and you can [adjust](https://www.youtube.com/watch?v=82Fm1ZJ1CGQ). That's the case with almost every field probably. (skills in one field do help in others though) 
 
    For CP, practice questions on Codeforces and Codechef. HackerRank problem solving section is good for starting.
-  (I don't want to make this a CP blog so I won't write much here about resources. You will find on them on your own.)
+  (I don't want to make this a CP blog so I won't write much here about resources. You will find on them on your own. Youtube has a lot of resources. For ex.
+Aman Dhattarwal is making a CP course which might be released completely by 2021)
   - Take Part in contests.
   
-  - Focus more on practicing problems on Codeforces and upsolving. If your rating is x, then solve problems [ x, x + 200 ]. Only deliberate practice
+  - Focus more on practicing problems on Codeforces and upsolving. If your rating is x, then solve problems [ x, x + 200 ] (could increase even more). Only deliberate practice
     can make you better. 
   
   - Do not learn all the algo and ds stuff first. Things don't work like that. You learn on the go by practicing and studying what is required.
     This is called the project based learning approach sometimes in Dev world or Minimum viable knowledge. 
     Learning in Breadth first search way more and dfs sometimes is helpful in programming and CS.
+    Optimal way in the beginning would be to study concepts but spend more time practicing.
     
   - There are a lot of resources about guidance on Quora and Codeforces (Google baba is there).You can check them out. Competitive programming is different from 
     normal data structures and algorithms that you implement in lab. You need to know these concepts but you **get good at CP by doing CP**. 
