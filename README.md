@@ -53,6 +53,10 @@ showing up daily (even if you are really passionate about it or not). There is n
       
      - [UC San Diego Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - (Not that much relevant to your DS course)I have done first course. It was challenging. I am somewhere in between in the second and third course. Currently, I don't need the content much so will complete later. But this specialization is tough and probably one of the best in terms of depth and breadth of topics. 
      
+     
+## Disclaimer 
+Below this point, I am talking about CP more. It's more like advice I would give to myself. I am a low rated (< 1200 on Codeforces, ~1690 on Codechef) coder so maybe, if you are a ratist(xD), you can stop reading now( If you think that opinion of a low rated coder is not useful which is a fair argument)
+   
 ## Some thoughts - CP related 
 - DS will also act as foundation if you want to do competitive programming. CP and interview prep are different. Try reading about that difference or rather experiencing that. Participate in a couple of Codeforces contests and LeetCode contest (or just solve some LeetCode/GFG problems) and you will get to know the difference. 
 
