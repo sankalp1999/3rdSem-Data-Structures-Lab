@@ -60,6 +60,8 @@ showing up daily (even if you are really passionate about it or not). There is n
 - If you know about CP and not really interested, it's ok. No need to do under peer pressure. There are a lots of areas and lots of ways to get into companies
 that pay really good salaries or whatever is your aim. for ex: you can be really good at developing stuff (apps, web development) or say something like deep learning (helps in masters but I would not recommend if you wanna do placement, kind of hard to get internships)
 
+### Many ways to get into good companies or universities are there.
+
 **Remember that if you say yes to one thing, you are saying no to something else.**
 
 Becoming good at CP requires a lot of discipline and focus*(kind of universal law) but (yes, probably more than development stuff atleast at the college level). I am working on the above two. I would argue that it will take a hell lot of time as compared to learning basic-intermediate web development/app dev etc. especially you are not that good at thinking skills/maths. (trust me, give a CF round and you will realise.)
@@ -68,7 +70,10 @@ So, if you do for sometime and feel like you like it or getting addicted or if y
 to explore other stuff.(Or just keep solving problems not so seriously.)
 
 Learn webd or appd and do internships. Do hackathons(I am a hypocrite), kaggle competitions and stuff like that. 
-Masters people obviously some student project or research internship. 
+Masters people know what to do.
+
+Case study: I have a couple of friends who got MSFT internship offers who did stuff like hackathons, SysAdmin work and didn't do CP but they were good at 
+DSA. 
 
 ## Some thoughts - CP related 
 - DS will also act as foundation if you want to do competitive programming. CP and interview prep are different. Try reading about that difference or rather experiencing that. Participate in a couple of Codeforces contests and LeetCode contest (or just solve some LeetCode/GFG problems) and you will get to know the difference. 
