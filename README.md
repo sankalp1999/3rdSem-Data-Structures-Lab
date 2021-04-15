@@ -81,8 +81,10 @@ DSA.
   The type of questions in coding rounds are similar to what you do in labs. They are going to be more fun and logical (and difficult). CP is more 
   mathematical and algorithm/implementation based. The topics also vary. You can get a better idea by ofcourse doing a bit both of them or by reading.
 
-### Tackling some misconceptions
+## Tackling some misconceptions and tips
    
+### DSA/InterviewPrep is a subset of CP. CP is a universe. 
+ 
  **You don't need to do (or be really good at) Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier to prepare for coding interviews and before getting a coding interview, one has to clear *Online Test Round or Coding Rounds(These rounds have less standard and more like easy CP problems. They can be standard problems also. Depends on the company* . 
  
  But for coding interviews, you practice those questions that are more relevant there.... Google, Microsoft only care     about you clearing their [interview](https://qr.ae/pNssEu). Before coding interviews, if you are from a good college like MIT(comparing something good with the best does not make good bad - Sankalp xD), you will have to give some kind of online assessment/coding round. 
@@ -108,6 +110,9 @@ More CP oriented: Codeforces, AtCoder(Atcoder beginner contest), Codechef(Luncht
 and mostly asked in coding interviews. E.g Find the median of the array. 
 
 ### Approach to CP in a nutshell 
+> Can you be the first purple coder from MIT? (Fun fact: As per my knowledge, nobody has ever reached Candidate Master level from our college. Check out 
+the number of such people from better colleges like IITs, BITs)
+
 This is the collective wisdom and information that I have understood by reading on platforms and the internet in my journey till now. (I am sort of advanced beginner in CP and certainly not good at it currently). But, you can trust the information given because i am just trying to articulate the ideas that the better programmers have conveyed (and I myself have experienced in whatever amount I have practiced. ) As you begin solving problems, these things keep getting clearer and you can [adjust](https://www.youtube.com/watch?v=82Fm1ZJ1CGQ). That's the case with almost every field probably. (skills in one field do help in others though) 
 
    For CP, practice questions on Codeforces and Codechef. HackerRank problem solving section is good for starting.
