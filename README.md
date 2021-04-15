@@ -84,6 +84,7 @@ DSA.
 ## Tackling some misconceptions and tips
    
 ### DSA/InterviewPrep is a subset of CP. CP is a universe. 
+ > Really good means like 1600+ on CF. 1800+ on Codechef.(maybe)
  
  **You don't need to do (or be really good at) Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier to prepare for coding interviews and before getting a coding interview, one has to clear *Online Test Round or Coding Rounds(These rounds have less standard and more like easy CP problems. They can be standard problems also. Depends on the company* . 
  
