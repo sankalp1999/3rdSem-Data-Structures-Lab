@@ -72,6 +72,10 @@ to explore other stuff.(Or just keep solving problems not so seriously.)
 Learn webd or appd and do internships. Do hackathons(I am a hypocrite), kaggle competitions and stuff like that. 
 Masters people know what to do.
 
+UPDATE : WebDev/AppDev/ML/DL whatever you do, do internships preferably atleast 1 industrial. Basically, work experience matters a lot. 
+Internship = working on something which will probably used by several users 
+
+
 Case study: I have a couple of friends who got MSFT internship offers who did stuff like hackathons, SysAdmin work and didn't do CP but they were good at 
 DSA. 
 
@@ -111,8 +115,6 @@ More CP oriented: Codeforces, AtCoder(Atcoder beginner contest), Codechef(Luncht
 and mostly asked in coding interviews. E.g Find the median of the array. 
 
 ### Approach to CP in a nutshell 
-> Can you be the first purple coder from MIT? (Fun fact: As per my knowledge, nobody has ever reached Candidate Master level from our college. Check out 
-the number of such people from better colleges like IITs, BITs)
 
 This is the collective wisdom and information that I have understood by reading on platforms and the internet in my journey till now. (I am sort of advanced beginner in CP and certainly not good at it currently). But, you can trust the information given because i am just trying to articulate the ideas that the better programmers have conveyed (and I myself have experienced in whatever amount I have practiced. ) As you begin solving problems, these things keep getting clearer and you can [adjust](https://www.youtube.com/watch?v=82Fm1ZJ1CGQ). That's the case with almost every field probably. (skills in one field do help in others though) 
 
